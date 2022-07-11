@@ -9,5 +9,5 @@
 </p>
 
 <a align="right" href="https://linkedin.com/in/jackmclean16" target="blank">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg    alt="jackmclean16-linkedIn-tag" height="30" width="40" />
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"    alt="jackmclean16-linkedIn-tag" height="30" width="40" />
 </a>
